@@ -1,0 +1,36 @@
+body
+{
+	background: #3B3D23;
+}
+
+p
+{
+	color: red;
+	font-size: 70px;
+	font-family: Backslash, Century, Consolas, Courier New;
+}
+
+
+table, th, td
+{
+	border: 3px solid white;
+	align: center; 
+	color: red;
+	font-size: 20px;
+	font-family: Century, Consolas, Courier New;
+	background: #222925 ;
+}
+
+#logout
+{
+	font-family: Backslash; 
+	font-size: 35px; 
+	padding: 5px; 
+	background-color: red; 
+	color: white
+}
+
+
+
+
+

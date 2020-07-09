@@ -1,0 +1,12 @@
+
+create table UserAccounts(First_Name varchar(15), Last_Name varchar(20), Email varchar(40), Username varchar(12) Primary Key, Password varchar(20));
+
+select *from UserAccounts;
+
+
+
+create table adminAccount(Username varchar(20) Primary Key, Password varchar(20));
+
+insert into adminAccount values('Harshit', 'methanol001');
+
+select *from adminAccount;

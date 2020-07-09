@@ -1,0 +1,60 @@
+body
+{
+background-color:#1F2222 ;	
+}
+
+form 
+{
+color: red;
+font-size: 30px;
+font-family: Revamped, Love Nature, Century, Consolas, Courier New;
+background: #E5FBFE  ;
+border: 2px solid;
+padding: 130px;
+}
+
+#user
+{
+    height:25px;
+    font-size:12pt;
+}
+
+#pass
+{
+    height:25px;
+    font-size:12pt;
+}
+
+#forgot
+{
+	font-family: Harlow Solid;
+    height:15px;
+    font-size:16pt;
+}
+
+
+#userlog
+{
+	font-family: Backslash; 
+	font-size: 35px; 
+	padding: 5px; 
+	background-color: red; 
+	color: white
+}
+
+
+#adminlog
+{
+	font-family: Backslash; 
+	font-size: 35px; 
+	padding: 5px; 
+	background-color: red; 
+	color: white
+}
+
+#newAccount
+{
+	font-family: Harlow Solid;
+    height:15px;
+    font-size:16pt;
+}

@@ -1,0 +1,50 @@
+form
+{
+color: red;
+font-size: 30px;
+font-family: Love Nature, Century, Consolas, Courier New;
+background: #9BE9BF ;
+border: 2px solid;
+padding: 76px;
+}
+
+
+#createAccount
+{
+font-family: Backslash; 
+font-size: 35px; 
+padding: 5px; 
+background-color: red; 
+color: white;
+}
+
+
+#uname
+{
+    height:30px;
+    font-size:12pt;
+}
+
+#fname
+{
+    height:30px;
+    font-size:12pt;
+}
+
+#lname
+{
+    height:30px;
+    font-size:12pt;
+}
+
+#email
+{
+    height:25px;
+    font-size:12pt;
+}
+
+#pass
+{
+    height:30px;
+    font-size:12pt;
+}
