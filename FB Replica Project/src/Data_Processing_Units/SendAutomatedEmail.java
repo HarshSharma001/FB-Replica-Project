@@ -8,8 +8,8 @@ public class SendAutomatedEmail {
 
 	Properties prop = System.getProperties();
     
-	final String username = "jirren1998@gmail.com";//
-    final String password = "angiosperm001";
+	final String username = "*****@gmail.com";//
+    final String password = "*******";
     
     String toEmail = null;
 
